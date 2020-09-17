@@ -11,7 +11,7 @@ Github: https://github.com/Shrai-dev
 
 ### Objective ###  
 --------  
- 
+Having knowledge of HTML/CSS/JS is looking for a Junior Front-End Developer position where I can enhance my skillset in web technologies to develop and implement solutions to meet business needs. Having a positive outlook and am always willing to learn new traits. 
 
 ### Skills ###  
 --------  
@@ -76,6 +76,6 @@ Diploma of Specialist in Electrical Engineering
 
 ### Courses, trainings, certificates ###  
 --------  
-2020 (ongoing) – course “Javascript/Front-end”, RS School (online)  
+09.2020 – till present – course “Javascript/Front-end”, RS School (online)  
 2017 – course “Software testing”, training IT-center SkillUp (Dnipro)  
 2017 – course “Basic WEB and SQL for Software testing”, training IT-center SkillUp (Dnipro)
