@@ -6,7 +6,7 @@
 Location:	Kyiv, Ukraine  
 Phone:	+38(093)7182874  
 E-mail:	nastia.shrai@gmail.com  
-LinkedIn:	https://www.linkedin.com/in/anastasiashrai/ 
+LinkedIn:	https://www.linkedin.com/in/anastasiashrai/  
 Github: https://github.com/Shrai-dev  
 
 ### Objective ###  
