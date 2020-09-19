@@ -30,7 +30,7 @@ Having knowledge of HTML/CSS/JS is looking for a Junior Front-End Developer posi
 ### Experience ###  
 --------  
 **Senior Electrical Engineer**  
-**Eknis-Engineering, LLC (Designing and building of high voltage substations and solar stations)**  
+**Eknis-Engineering, LLC (Design, installation and improvement of power facilities up to 750 kV)**  
 03.2020 – till present
 
 **Responsibilities:**  
